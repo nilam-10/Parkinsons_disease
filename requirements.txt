@@ -1,0 +1,13 @@
+flask
+joblib
+scikit-learn
+xgboost
+lightgbm
+pandas
+numpy
+librosa
+soundfile
+pillow
+torch
+matplotlib
+optuna
